@@ -30,10 +30,12 @@ I'm an aspiring MERN stack developer passionate about building full-stack web ap
 ![GitHub](https://img.shields.io/badge/GitHub-181717)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC)
 
+
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Asem&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Asem&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Asem&show_icons=true&theme=radical&v=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Asem&layout=compact&theme=radical&v=1)
+
 
 ## 📫 How to Reach Me
 
